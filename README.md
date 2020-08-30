@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **ilzamafif/ilzamafif**.
 
 Here are some ideas to get you started:
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about people
 - 📫 How to reach me: ilzamafif27@gmail.com
 - ⚡ Fun fact: still breathing
--->
