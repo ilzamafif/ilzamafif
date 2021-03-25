@@ -1,13 +1,9 @@
-### Hi there 👋
+### Hi there, I am Ilzam
 
-**ilzamafif/ilzamafif**.
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ilzam Afif)](https://github.com/ilzamafif/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on gudangkode
+- 🔭 I’m currently working on home
 - 🌱 I’m currently learning javascript and PHP
 - 👯 I’m looking to collaborate on learn
 - 🤔 I’m looking for help with google
-- 💬 Ask me about people
-- 📫 How to reach me: ilzamafif27@gmail.com
-- ⚡ Fun fact: still breathing
+- 📫 How to reach me at my instagram : ilzamafif
